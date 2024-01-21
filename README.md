@@ -7,7 +7,7 @@ This project is a simple web application that allows users to view public GitHub
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/github-repositories-viewer.git
+ https://mayankpal99.github.io/Github-Repository/
 ```
 
 2. Open `index.html` in a web browser.
